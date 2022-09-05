@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prathameshrjagtap
+- 👋 Hi, I’m Prathamesh Ravindra Jagtap.
 - 👀 I’m interested in Python Programming, C Programming and Various New Technologies.
 - 📫 How to reach me : You can send an email on prathamesh.r.jagtap@gmail.com or you can message me on LinkedIn, Instagram or Twitter.
 - LinkedIn :www.linkedin.com/in/prathamesh-jagtap-a41933145 
