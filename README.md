@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋 I'm Prathamesh. Nice to see you.<br>🧐 I'm fascinated with Ethical Hacking, Kali Linux, Information Security and Automating boring stuff.<br>🌱 I’m currently learning Java Programming.<br>👯 I'm looking to contribute to the open-source projects.<br>🔭 I'm currently working on a Interactive Bot.
+Hey 👋 I'm Prathamesh. Nice to see you.<br>🧐 I'm fascinated with Ethical Hacking, Kali Linux, Information Security and Automating boring stuff.<br>🌱 I’m currently learning Python Programming.<br>👯 I'm looking to contribute to the open-source projects.<br>🔭 I'm currently working on a Interactive Bot.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/prathamesh-jagtap-a41933145) 
